@@ -35,19 +35,24 @@ I am a seasoned engineer focused on architecting high-performance distributed sy
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manas2297&show_icons=true&theme=tokyonight&count_private=true" alt="Manas's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas2297&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manas2297&show_icons=true&theme=tokyonight&count_private=true" alt="Manas's Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manas2297&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas2297&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas2297&theme=tokyonight" alt="GitHub Streak" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas2297&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manas2297&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" width="95%" />
 </p>
 
 ---
+
+### 🤝 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/manas2297](https://www.linkedin.com/in/manas2297)
+- 📧 **Email:** [manas.yadav@example.com](mailto:yadavmanas22@gmail.com)
 
 ### 🌱 Beyond the Code
 
