@@ -45,6 +45,10 @@ I am a seasoned engineer with **8+ years of experience** focused on building hig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas2297&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas2297&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manas2297&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas2297&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
