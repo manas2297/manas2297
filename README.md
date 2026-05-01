@@ -2,7 +2,7 @@
 
 ### Lead Software Engineer | Backend Architect | Health & Nutrition Advocate
 
-I am a seasoned engineer focused on building high-performance, scalable backend systems. I enjoy solving complex problems involving asynchronous messaging, distributed systems, and modern development workflows.
+I am a seasoned engineer with **8+ years of experience** focused on building high-performance, scalable backend systems. I have successfully scaled systems to serve **millions of users** across diverse domains including **Health, Fintech, Marketing, and SaaS**. I enjoy solving complex problems involving asynchronous messaging, distributed systems, and modern development workflows.
 
 ---
 
@@ -27,12 +27,24 @@ I am a seasoned engineer focused on building high-performance, scalable backend 
 
 ---
 
-### 📊 My GitHub Journey
+### 📈 Experience Highlights
+
+- **8+ Years** of professional software engineering experience
+- **Scaled Systems** to millions of users in production environments
+- **Domain Expertise:** Health, Fintech, Marketing, SaaS industries
+- **Architecture Focus:** Microservices, distributed systems, high-performance backends
+- **Technical Leadership:** Leading backend teams and mentoring junior developers
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manas2297&show_icons=true&theme=tokyonight&count_private=true" alt="Manas's Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas2297&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas2297&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
